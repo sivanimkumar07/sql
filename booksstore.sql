@@ -1,3 +1,4 @@
+CREATE TABLE books(id INT (100),title VARCHAR(100),author VARCHAR(100),price VARCHAR(100)stock VARCHAR(100));
 INSERT INTO books VALUES(1, 'The Alchemist', 'Paulo Coelho', 350, 50),
 (2, 'Atomic Habits', 'James Clear', 450, 40),
 (3, 'The Psychology of Money', 'Morgan Housel', 400, 30),
